@@ -1,0 +1,1 @@
+# Gerador-de-Senha_3c
